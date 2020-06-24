@@ -24,6 +24,10 @@
   color: white;
 }
 
+.App-Component {
+  margin: 50px auto 0 auto;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +39,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#title {
+  color: red;
+  font-family: monospace;
+  margin-top: 15%;
+}
+:root {
+  background-color: #282c34;
 }
