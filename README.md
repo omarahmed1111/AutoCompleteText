@@ -1,3 +1,22 @@
+# Project Description
+The project mainly is used to:
+* help users get the exact name of a country whenever they only know the first characters.
+* As a template for anyone interested in making an app with a search bar for searching for country names. They can copy the parts related to the text input. 
+
+# Development Environment
+* Visual studio code
+* Live server vscode extension
+* React devtools extension for mozilla firefox browser
+* Mozilla firefox browser
+
+# Development Technologies
+* HTML5
+* CSS3
+* React V16.13.1
+* npm V6.14.4
+
+# User manual
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +85,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Screenshots
+![App empty main page](https://i.imgur.com/7mJyL8r.png)
+![App simple use case](https://i.imgur.com/KMYBoPq.png)
