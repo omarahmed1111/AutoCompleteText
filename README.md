@@ -3,6 +3,9 @@ The project mainly is used to:
 * help users get the exact name of a country whenever they only know the first characters.
 * As a template for anyone interested in making an app with a search bar for searching for country names. They can copy the parts related to the text input. 
 
+# Website 
+https://autocomplete-countries.herokuapp.com/
+
 # Development Environment
 * Visual studio code
 * Live server vscode extension
